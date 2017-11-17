@@ -121,3 +121,4 @@ print (xmlConfig)
 #
 # #Close connection to device
 # device.close()
+

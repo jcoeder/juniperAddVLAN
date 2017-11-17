@@ -94,3 +94,4 @@ except UnlockError:
 
 #Close connection to device
 device.close()
+
